@@ -1,7 +1,7 @@
 <?xml version="1.0"?> 
-<launcherUpdate> 
+<sharpUpdate> 
     <update> 
-        <version>1.0.0.0</version> 
+        <version>4.0.0.0</version> 
         <url>https://raw.githubusercontent.com/sagefather/UpdateLauncher/master/SDL2.dll</url> 
         <filePath>./SDL2.dll</filePath>
         <md5>7904ab98a3958d1cdc207ae8aec82dd5</md5>
@@ -9,4 +9,4 @@
         1. Testing updates.</description> 
         <launchArgs></launchArgs> 
     </update>
-</launcherUpdate>
+</sharpUpdate>
