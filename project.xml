@@ -3,7 +3,7 @@
     <update> 
         <version>1.0.0.0</version> 
         <url>https://raw.githubusercontent.com/sagefather/UpdateLauncher/master/SDL2.dll</url> 
-        <filePath>./JohnnysAirline.exe</filePath>
+        <filePath>./SDL2.dll</filePath>
         <md5>be43eb4af639c944b729afb69e174b12</md5>
         <description>Update: 05/10/2020:
         1. Testing updates.</description> 
