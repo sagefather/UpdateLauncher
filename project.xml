@@ -1,10 +1,10 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>4.0.0.0</version> 
+        
         <url>https://raw.githubusercontent.com/sagefather/UpdateLauncher/master/TestApp.exe</url> 
         <filePath>./TestApp.exe</filePath>
-        <md5>7904ab98a3958d1cdc207ae8aec82dd5</md5>
+        
         <description>Update: 05/10/2020:
         1. Testing updates.</description> 
         <launchArgs></launchArgs> 
