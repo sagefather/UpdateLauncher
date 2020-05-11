@@ -1,7 +1,7 @@
 <?xml version="1.0"?> 
 <launcherUpdate> 
     <update> 
-        <version>4.0.0.0</version> 
+        <version>1.0.0.1</version> 
         <url>https://bdoarmada.com/JohnnysAirline.exe</url> 
         <filePath>./JohnnysAirline.exe</filePath>
         <md5>be43eb4af639c944b729afb69e174b12</md5>
@@ -26,6 +26,38 @@
             Exfil is open.            
             Finish Boss custom color.
             Change settings button color.</description> 
+        <launchArgs></launchArgs> 
+    </update>
+    <update> 
+        <version>1.0.0.1</version> 
+        <url>https://bdoarmada.com/fleeprices.json</url> 
+        <filePath>./fleeprices.json</filePath>
+        <md5>be43eb4af639c944b729afb69e174b12</md5>
+        <description> </description> 
+        <launchArgs></launchArgs> 
+    </update>
+    <update> 
+        <version>1.0.0.1</version> 
+        <url>https://bdoarmada.com/itemfilter.json</url> 
+        <filePath>./itemfilter.json</filePath>
+        <md5>be43eb4af639c944b729afb69e174b12</md5>
+        <description> </description> 
+        <launchArgs></launchArgs> 
+    </update>
+    <update> 
+        <version>1.0.0.1</version> 
+        <url>https://bdoarmada.com/pthreadVC2.dll</url> 
+        <filePath>./pthreadVC2.dll</filePath>
+        <md5>be43eb4af639c944b729afb69e174b12</md5>
+        <description> </description> 
+        <launchArgs></launchArgs> 
+    </update>
+    <update> 
+        <version>1.0.0.1</version> 
+        <url>https://bdoarmada.com/SDL2.dll</url> 
+        <filePath>./SDL2.dll</filePath>
+        <md5>be43eb4af639c944b729afb69e174b12</md5>
+        <description> </description> 
         <launchArgs></launchArgs> 
     </update>
 </launcherUpdate>
