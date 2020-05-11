@@ -1,22 +1,22 @@
 <?xml version="1.0"?> 
-<launcherUpdate> 
+<sharpUpdate> 
     <update> 
-        <version>2.0.0.1</version> 
-        <url>https://bdoarmada.com/JohnnysAirline.exe</url> 
+        <version>3.1.0.1</version> 
+        <url>https://raw.githubusercontent.com/sagefather/UpdateLauncher/master/JohnnysAirline.exe</url> 
         <filePath>./JohnnysAirline.exe</filePath>
         <md5>be43eb4af639c944b729afb69e174b12</md5>
         <description>Update: 05/10/2020:
         1.  Radar now runs at 60fps.
         2.  Menu now added.
         3.  Adjustable colors via settings.
-        4.  PMC & P Scav.
+        4.  PMC and P Scav.
         5.  PMC name list.
-        6.  Important & Group filters added.
+        6.  Important and Group filters added.
         7.  Customizable important loot colors.
         8.  Togglable beam for all item filters.
         9.  Itemfiler JSON now supports new loot features.
         10. Radar background default color is now darker.
-        11. Scalable loot & player names.
+        11. Scalable loot and player names.
         12. Launcher with auto updates.
         
         TODO:
@@ -29,35 +29,49 @@
         <launchArgs></launchArgs> 
     </update>
     <update> 
-        <version>2.0.0.1</version> 
-        <url>https://bdoarmada.com/fleeprices.json</url> 
+        <version>3.1.0.1</version> 
+        <url>https://raw.githubusercontent.com/sagefather/UpdateLauncher/master/fleeprices.json</url> 
         <filePath>./fleeprices.json</filePath>
         <md5>be43eb4af639c944b729afb69e174b12</md5>
         <description> </description> 
         <launchArgs></launchArgs> 
     </update>
     <update> 
-        <version>2.0.0.1</version> 
-        <url>https://bdoarmada.com/itemfilter.json</url> 
+        <version>3.1.0.1</version> 
+        <url>https://raw.githubusercontent.com/sagefather/UpdateLauncher/master/itemfilter.json</url> 
         <filePath>./itemfilter.json</filePath>
         <md5>be43eb4af639c944b729afb69e174b12</md5>
         <description> </description> 
         <launchArgs></launchArgs> 
     </update>
     <update> 
-        <version>2.0.0.1</version> 
-        <url>https://bdoarmada.com/pthreadVC2.dll</url> 
+        <version>3.1.0.1</version> 
+        <url>https://raw.githubusercontent.com/sagefather/UpdateLauncher/master/pthreadVC2.dll</url> 
         <filePath>./pthreadVC2.dll</filePath>
         <md5>be43eb4af639c944b729afb69e174b12</md5>
         <description> </description> 
         <launchArgs></launchArgs> 
     </update>
     <update> 
-        <version>2.0.0.1</version> 
-        <url>https://bdoarmada.com/SDL2.dll</url> 
+        <version>3.1.0.1</version> 
+        <url>https://raw.githubusercontent.com/sagefather/UpdateLauncher/master/SDL2.dll</url> 
         <filePath>./SDL2.dll</filePath>
         <md5>be43eb4af639c944b729afb69e174b12</md5>
         <description> </description> 
         <launchArgs></launchArgs> 
     </update>
-</launcherUpdate>
+    <update> 
+        <version>3.1.0.1</version> 
+        <url>https://raw.githubusercontent.com/sagefather/UpdateLauncher/master/TestApp.exe</url> 
+        <filePath>./TestApp.exe</filePath>
+        <md5>be43eb4af639c944b729afb69e174b12</md5>
+        <description> </description> 
+        <launchArgs></launchArgs> 
+    </update>
+    <remove>
+        <filePath>./test_remove/SharpUpdate - Copy.dll</filePath>
+        <description>Remove: 10/06/2018:
+        1. Test remove.</description> 
+        <launchArgs></launchArgs> 
+    </remove>
+</sharpUpdate>

@@ -1,0 +1,1850 @@
+{
+  "5e42c71586f7747f245e1343": {
+    "_id": "5e42c71586f7747f245e1343",
+    "_FilterInfo": {
+      "Name": "ULTRA key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5e42c81886f7742a01529f57": {
+    "_id": "5e42c81886f7742a01529f57",
+    "_FilterInfo": {
+      "Name": "#11SR keycard",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5e42c83786f7742a021fdf3c": {
+    "_id": "5e42c83786f7742a021fdf3c",
+    "_FilterInfo": {
+      "Name": "#21WS keycard",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5ad5d7d286f77450166e0a89": {
+    "_id": "5ad5d7d286f77450166e0a89",
+    "_FilterInfo": {
+      "Name": "KIBA key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5ad7247386f7747487619dc3": {
+    "_id": "5ad7247386f7747487619dc3",
+    "_FilterInfo": {
+      "Name": "Goshan cash register key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5addaffe86f77470b455f900": {
+    "_id": "5addaffe86f77470b455f900",
+    "_FilterInfo": {
+      "Name": "KIBA grate door key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5ad7217186f7746744498875": {
+    "_id": "5ad7217186f7746744498875",
+    "_FilterInfo": {
+      "Name": "OLI cash register key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5ad7242b86f7740a6a3abd43": {
+    "_id": "5ad7242b86f7740a6a3abd43",
+    "_FilterInfo": {
+      "Name": "IDEA cash register key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5ad5db3786f7743568421cce": {
+    "_id": "5ad5db3786f7743568421cce",
+    "_FilterInfo": {
+      "Name": "EMERCOM medical unit",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5c1d0efb86f7744baf2e7b7b": {
+    "_id": "5c1d0efb86f7744baf2e7b7b",
+    "_FilterInfo": {
+      "Name": "Lab. Red keycard",
+      "Group": 1,
+      "Important": true
+    }
+  },
+  "5c1d0d6d86f7744bb2683e1f": {
+    "_id": "5c1d0d6d86f7744bb2683e1f",
+    "_FilterInfo": {
+      "Name": "Lab. Yellow keycard",
+      "Group": 1,
+      "Important": true
+    }
+  },
+  "5c1e495a86f7743109743dfb": {
+    "_id": "5c1e495a86f7743109743dfb",
+    "_FilterInfo": {
+      "Name": "Lab. Violet keycard",
+      "Group": 1,
+      "Important": true
+    }
+  },
+  "5c1d0c5f86f7744bb2683cf0": {
+    "_id": "5c1d0c5f86f7744bb2683cf0",
+    "_FilterInfo": {
+      "Name": "Lab. Blue keycard",
+      "Group": 1,
+      "Important": true
+    }
+  },
+  "5c1d0dc586f7744baf2e7b79": {
+    "_id": "5c1d0dc586f7744baf2e7b79",
+    "_FilterInfo": {
+      "Name": "Lab. Green keycard",
+      "Group": 1,
+      "Important": true
+    }
+  },
+  "5c1d0f4986f7744bb01837fa": {
+    "_id": "5c1d0f4986f7744bb01837fa",
+    "_FilterInfo": {
+      "Name": "Lab. Black keycard",
+      "Group": 1,
+      "Important": true
+    }
+  },
+  "5c1e2a1e86f77431ea0ea84c": {
+    "_id": "5c1e2a1e86f77431ea0ea84c",
+    "_FilterInfo": {
+      "Name": "Lab. Manager office",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5c1e2d1f86f77431e9280bee": {
+    "_id": "5c1e2d1f86f77431e9280bee",
+    "_FilterInfo": {
+      "Name": "Lab. Testing area (weap.)",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5c1f79a086f7746ed066fb8f": {
+    "_id": "5c1f79a086f7746ed066fb8f",
+    "_FilterInfo": {
+      "Name": "Lab. Arsenal storage room",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5c94bbff86f7747ee735c08f": {
+    "_id": "5c94bbff86f7747ee735c08f",
+    "_FilterInfo": {
+      "Name": "Labs access keycard",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d80c78786f774403a401e3e": {
+    "_id": "5d80c78786f774403a401e3e",
+    "_FilterInfo": {
+      "Name": "RB-AK key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d80c88d86f77440556dbf07": {
+    "_id": "5d80c88d86f77440556dbf07",
+    "_FilterInfo": {
+      "Name": "RB-AM key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d80c66d86f774405611c7d6": {
+    "_id": "5d80c66d86f774405611c7d6",
+    "_FilterInfo": {
+      "Name": "RB-AO key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d80c60f86f77440373c4ece": {
+    "_id": "5d80c60f86f77440373c4ece",
+    "_FilterInfo": {
+      "Name": "RB-BK key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d8e3ecc86f774414c78d05e": {
+    "_id": "5d8e3ecc86f774414c78d05e",
+    "_FilterInfo": {
+      "Name": "RB-GN key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d8e0db586f7744450412a42": {
+    "_id": "5d8e0db586f7744450412a42",
+    "_FilterInfo": {
+      "Name": "RB-KORL key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d8e0e0e86f774321140eb56": {
+    "_id": "5d8e0e0e86f774321140eb56",
+    "_FilterInfo": {
+      "Name": "RB-KPRL key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d947d4e86f774447b415895": {
+    "_id": "5d947d4e86f774447b415895",
+    "_FilterInfo": {
+      "Name": "RB-KSM key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d80c93086f7744036212b41": {
+    "_id": "5d80c93086f7744036212b41",
+    "_FilterInfo": {
+      "Name": "RB-MP11 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d80c95986f77440351beef3": {
+    "_id": "5d80c95986f77440351beef3",
+    "_FilterInfo": {
+      "Name": "RB-MP12 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d80cbd886f77470855c26c2": {
+    "_id": "5d80cbd886f77470855c26c2",
+    "_FilterInfo": {
+      "Name": "RB-MP13 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d80ca9086f774403a401e40": {
+    "_id": "5d80ca9086f774403a401e40",
+    "_FilterInfo": {
+      "Name": "RB-MP21 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d80cab086f77440535be201": {
+    "_id": "5d80cab086f77440535be201",
+    "_FilterInfo": {
+      "Name": "RB-MP22 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d80c6c586f77440351beef1": {
+    "_id": "5d80c6c586f77440351beef1",
+    "_FilterInfo": {
+      "Name": "RB-OB key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d80c8f586f77440373c4ed0": {
+    "_id": "5d80c8f586f77440373c4ed0",
+    "_FilterInfo": {
+      "Name": "RB-OP key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d80ccac86f77470841ff452": {
+    "_id": "5d80ccac86f77470841ff452",
+    "_FilterInfo": {
+      "Name": "RB-ORB1 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d80ccdd86f77474f7575e02": {
+    "_id": "5d80ccdd86f77474f7575e02",
+    "_FilterInfo": {
+      "Name": "RB-ORB2 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d80cd1a86f77402aa362f42": {
+    "_id": "5d80cd1a86f77402aa362f42",
+    "_FilterInfo": {
+      "Name": "RB-ORB3 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d80cb8786f774405611c7d9": {
+    "_id": "5d80cb8786f774405611c7d9",
+    "_FilterInfo": {
+      "Name": "RB-PP key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d80cb5686f77440545d1286": {
+    "_id": "5d80cb5686f77440545d1286",
+    "_FilterInfo": {
+      "Name": "RB-PS81 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d95d6be86f77424444eb3a7": {
+    "_id": "5d95d6be86f77424444eb3a7",
+    "_FilterInfo": {
+      "Name": "RB-PS82 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d80cb3886f77440556dbf09": {
+    "_id": "5d80cb3886f77440556dbf09",
+    "_FilterInfo": {
+      "Name": "RB-PSP1 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5da5cdcd86f774529238fb9b": {
+    "_id": "5da5cdcd86f774529238fb9b",
+    "_FilterInfo": {
+      "Name": "RB-RH key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5da46e3886f774653b7a83fe": {
+    "_id": "5da46e3886f774653b7a83fe",
+    "_FilterInfo": {
+      "Name": "RB-RS key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d947d3886f774447b415893": {
+    "_id": "5d947d3886f774447b415893",
+    "_FilterInfo": {
+      "Name": "RB-SMP key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d9f1fa686f774726974a992": {
+    "_id": "5d9f1fa686f774726974a992",
+    "_FilterInfo": {
+      "Name": "RB-ST key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d80c6fc86f774403a401e3c": {
+    "_id": "5d80c6fc86f774403a401e3c",
+    "_FilterInfo": {
+      "Name": "RB-TB key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d80c62a86f7744036212b3f": {
+    "_id": "5d80c62a86f7744036212b3f",
+    "_FilterInfo": {
+      "Name": "RB-VO key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5913915886f774123603c392": {
+    "_id": "5913915886f774123603c392",
+    "_FilterInfo": {
+      "Name": "Military checkpoint key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d8e15b686f774445103b190": {
+    "_id": "5d8e15b686f774445103b190",
+    "_FilterInfo": {
+      "Name": "HEPS storage key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a0f08bc86f77478f33b84c2": {
+    "_id": "5a0f08bc86f77478f33b84c2",
+    "_FilterInfo": {
+      "Name": "Resort mgt safe key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a0f0f5886f7741c4e32a472": {
+    "_id": "5a0f0f5886f7741c4e32a472",
+    "_FilterInfo": {
+      "Name": "Resort safe key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a0f006986f7741ffd2fe484": {
+    "_id": "5a0f006986f7741ffd2fe484",
+    "_FilterInfo": {
+      "Name": "Weather safe key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a0eb6ac86f7743124037a28": {
+    "_id": "5a0eb6ac86f7743124037a28",
+    "_FilterInfo": {
+      "Name": "Cottage back key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a0f068686f7745b0d4ea242": {
+    "_id": "5a0f068686f7745b0d4ea242",
+    "_FilterInfo": {
+      "Name": "Cottage safe key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a0ea64786f7741707720468": {
+    "_id": "5a0ea64786f7741707720468",
+    "_FilterInfo": {
+      "Name": "East room 107 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a0ea69f86f7741cd5406619": {
+    "_id": "5a0ea69f86f7741cd5406619",
+    "_FilterInfo": {
+      "Name": "East room 108 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a144bdb86f7741d374bbde0": {
+    "_id": "5a144bdb86f7741d374bbde0",
+    "_FilterInfo": {
+      "Name": "East room 205 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a0ee4b586f7743698200d22": {
+    "_id": "5a0ee4b586f7743698200d22",
+    "_FilterInfo": {
+      "Name": "East room 206 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a0ee62286f774369454a7ac": {
+    "_id": "5a0ee62286f774369454a7ac",
+    "_FilterInfo": {
+      "Name": "East room 209 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a0ee72c86f77436955d3435": {
+    "_id": "5a0ee72c86f77436955d3435",
+    "_FilterInfo": {
+      "Name": "East room 213 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a0ee76686f7743698200d5c": {
+    "_id": "5a0ee76686f7743698200d5c",
+    "_FilterInfo": {
+      "Name": "East room 216 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a13f24186f77410e57c5626": {
+    "_id": "5a13f24186f77410e57c5626",
+    "_FilterInfo": {
+      "Name": "East room 222 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a13f35286f77413ef1436b0": {
+    "_id": "5a13f35286f77413ef1436b0",
+    "_FilterInfo": {
+      "Name": "East room 226 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a145d4786f7744cbb6f4a12": {
+    "_id": "5a145d4786f7744cbb6f4a12",
+    "_FilterInfo": {
+      "Name": "East room 306 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a145d7b86f7744cbb6f4a13": {
+    "_id": "5a145d7b86f7744cbb6f4a13",
+    "_FilterInfo": {
+      "Name": "East room 308 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a0eec9686f77402ac5c39f2": {
+    "_id": "5a0eec9686f77402ac5c39f2",
+    "_FilterInfo": {
+      "Name": "East room 310 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a0eecf686f7740350630097": {
+    "_id": "5a0eecf686f7740350630097",
+    "_FilterInfo": {
+      "Name": "East room 313 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a0eed4386f77405112912aa": {
+    "_id": "5a0eed4386f77405112912aa",
+    "_FilterInfo": {
+      "Name": "East room 314 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a0eedb386f77403506300be": {
+    "_id": "5a0eedb386f77403506300be",
+    "_FilterInfo": {
+      "Name": "East room 322 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a0eee1486f77402aa773226": {
+    "_id": "5a0eee1486f77402aa773226",
+    "_FilterInfo": {
+      "Name": "East room 328 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a0dc45586f7742f6b0b73e3": {
+    "_id": "5a0dc45586f7742f6b0b73e3",
+    "_FilterInfo": {
+      "Name": "West room 104 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a0dc95c86f77452440fc675": {
+    "_id": "5a0dc95c86f77452440fc675",
+    "_FilterInfo": {
+      "Name": "West room 112 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a144dfd86f77445cb5a0982": {
+    "_id": "5a144dfd86f77445cb5a0982",
+    "_FilterInfo": {
+      "Name": "West room 203 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a0ec6d286f7742c0b518fb5": {
+    "_id": "5a0ec6d286f7742c0b518fb5",
+    "_FilterInfo": {
+      "Name": "West room 205 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a0ec70e86f7742c0b518fba": {
+    "_id": "5a0ec70e86f7742c0b518fba",
+    "_FilterInfo": {
+      "Name": "West room 207 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a0ee30786f774023b6ee08f": {
+    "_id": "5a0ee30786f774023b6ee08f",
+    "_FilterInfo": {
+      "Name": "West room 216 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a13eebd86f7746fd639aa93": {
+    "_id": "5a13eebd86f7746fd639aa93",
+    "_FilterInfo": {
+      "Name": "West room 218 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a13ef0686f7746e5a411744": {
+    "_id": "5a13ef0686f7746e5a411744",
+    "_FilterInfo": {
+      "Name": "West room 219 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a0ee34586f774023b6ee092": {
+    "_id": "5a0ee34586f774023b6ee092",
+    "_FilterInfo": {
+      "Name": "West room 220 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a0ee37f86f774023657a86f": {
+    "_id": "5a0ee37f86f774023657a86f",
+    "_FilterInfo": {
+      "Name": "West room 221 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a1452ee86f7746f33111763": {
+    "_id": "5a1452ee86f7746f33111763",
+    "_FilterInfo": {
+      "Name": "West room 222 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a13ef7e86f7741290491063": {
+    "_id": "5a13ef7e86f7741290491063",
+    "_FilterInfo": {
+      "Name": "West room 301 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a0eeb1a86f774688b70aa5c": {
+    "_id": "5a0eeb1a86f774688b70aa5c",
+    "_FilterInfo": {
+      "Name": "West room 303 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a13f46386f7741dd7384b04": {
+    "_id": "5a13f46386f7741dd7384b04",
+    "_FilterInfo": {
+      "Name": "West room 306 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a0eeb8e86f77461257ed71a": {
+    "_id": "5a0eeb8e86f77461257ed71a",
+    "_FilterInfo": {
+      "Name": "West room 309 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a13ee1986f774794d4c14cd": {
+    "_id": "5a13ee1986f774794d4c14cd",
+    "_FilterInfo": {
+      "Name": "West room 323 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a0eebed86f77461230ddb3d": {
+    "_id": "5a0eebed86f77461230ddb3d",
+    "_FilterInfo": {
+      "Name": "West room 325 key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5448ba0b4bdc2d02308b456c": {
+    "_id": "5448ba0b4bdc2d02308b456c",
+    "_FilterInfo": {
+      "Name": "Factory exit key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d08d21286f774736e7c94c3": {
+    "_id": "5d08d21286f774736e7c94c3",
+    "_FilterInfo": {
+      "Name": "Shturman key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5da743f586f7744014504f72": {
+    "_id": "5da743f586f7744014504f72",
+    "_FilterInfo": {
+      "Name": "USEC stash key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5780cf7f2459777de4559322": {
+    "_id": "5780cf7f2459777de4559322",
+    "_FilterInfo": {
+      "Name": "Marked Room Key",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5c0a840b86f7742ffa4f2482": {
+    "_id": "5c0a840b86f7742ffa4f2482",
+    "_FilterInfo": {
+      "Name": "T H I C C Items case",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5b6d9ce188a4501afc1b2b25": {
+    "_id": "5b6d9ce188a4501afc1b2b25",
+    "_FilterInfo": {
+      "Name": "T H I C C Weapon case",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d235bb686f77443f4331278": {
+    "_id": "5d235bb686f77443f4331278",
+    "_FilterInfo": {
+      "Name": "Small S I C C case",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "59fb042886f7746c5005a7b2": {
+    "_id": "59fb042886f7746c5005a7b2",
+    "_FilterInfo": {
+      "Name": "Items case",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "59fb023c86f7746d0d4b423c": {
+    "_id": "59fb023c86f7746d0d4b423c",
+    "_FilterInfo": {
+      "Name": "Weapon case",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5aafbcd986f7745e590fff23": {
+    "_id": "5aafbcd986f7745e590fff23",
+    "_FilterInfo": {
+      "Name": "Meds case",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5c093db286f7740a1b2617e3": {
+    "_id": "5c093db286f7740a1b2617e3",
+    "_FilterInfo": {
+      "Name": "Holodilnick case",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5c093e3486f77430cb02e593": {
+    "_id": "5c093e3486f77430cb02e593",
+    "_FilterInfo": {
+      "Name": "Dogtag case",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "59fb016586f7746d0d4b423a": {
+    "_id": "59fb016586f7746d0d4b423a",
+    "_FilterInfo": {
+      "Name": "Money case",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5c127c4486f7745625356c13": {
+    "_id": "5c127c4486f7745625356c13",
+    "_FilterInfo": {
+      "Name": "Mag case",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "590c60fc86f77412b13fddcf": {
+    "_id": "590c60fc86f77412b13fddcf",
+    "_FilterInfo": {
+      "Name": "Docs case",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5aafbde786f774389d0cbc0f": {
+    "_id": "5aafbde786f774389d0cbc0f",
+    "_FilterInfo": {
+      "Name": "Ammo case",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5e2af55f86f7746d4159f07c": {
+    "_id": "5e2af55f86f7746d4159f07c",
+    "_FilterInfo": {
+      "Name": "Grenade case",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5b7c710788a4506dec015957": {
+    "_id": "5b7c710788a4506dec015957",
+    "_FilterInfo": {
+      "Name": "Lucky Scav Junkbox",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5c0530ee86f774697952d952": {
+    "_id": "5c0530ee86f774697952d952",
+    "_FilterInfo": {
+      "Name": "LEDX",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5751a89d24597722aa0e8db0": {
+    "_id": "5751a89d24597722aa0e8db0",
+    "_FilterInfo": {
+      "Name": "GoldenStar",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5c052e6986f7746b207bc3c9": {
+    "_id": "5c052e6986f7746b207bc3c9",
+    "_FilterInfo": {
+      "Name": "Defibrillator",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "590c657e86f77412b013051d": {
+    "_id": "590c657e86f77412b013051d",
+    "_FilterInfo": {
+      "Name": "Grizzly",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5af0534a86f7743b6f354284": {
+    "_id": "5af0534a86f7743b6f354284",
+    "_FilterInfo": {
+      "Name": "Ophthalmoscope",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5c0e531d86f7747fa23f4d42": {
+    "_id": "5c0e531d86f7747fa23f4d42",
+    "_FilterInfo": {
+      "Name": "SJ6 TGLabs",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5c0e531286f7747fa54205c2": {
+    "_id": "5c0e531286f7747fa54205c2",
+    "_FilterInfo": {
+      "Name": "SJ1 TGLabs",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5c0e534186f7747fa1419867": {
+    "_id": "5c0e534186f7747fa1419867",
+    "_FilterInfo": {
+      "Name": "eTG-change",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5c10c8fd86f7743d7d706df3": {
+    "_id": "5c10c8fd86f7743d7d706df3",
+    "_FilterInfo": {
+      "Name": "Adrenaline",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5c0e530286f7747fa1419862": {
+    "_id": "5c0e530286f7747fa1419862",
+    "_FilterInfo": {
+      "Name": "Propital",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "544fb3f34bdc2d03748b456a": {
+    "_id": "544fb3f34bdc2d03748b456a",
+    "_FilterInfo": {
+      "Name": "Morphine",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d02797c86f774203f38e30a": {
+    "_id": "5d02797c86f774203f38e30a",
+    "_FilterInfo": {
+      "Name": "Surv12",
+      "Group": 3,
+      "Important": false
+    }
+  },
+  "5d02778e86f774203e7dedbe": {
+    "_id": "5d02778e86f774203e7dedbe",
+    "_FilterInfo": {
+      "Name": "CMS kit",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5c0e533786f7747fa23f4d47": {
+    "_id": "5c0e533786f7747fa23f4d47",
+    "_FilterInfo": {
+      "Name": "Zagustin",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5755383e24597772cb798966": {
+    "_id": "5755383e24597772cb798966",
+    "_FilterInfo": {
+      "Name": "Vaseline",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5c0126f40db834002a125382": {
+    "_id": "5c0126f40db834002a125382",
+    "_FilterInfo": {
+      "Name": "Red Rebel",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "59fafd4b86f7745ca07e1232": {
+    "_id": "59fafd4b86f7745ca07e1232",
+    "_FilterInfo": {
+      "Name": "Keytool",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5bffe7930db834001b734a39": {
+    "_id": "5bffe7930db834001b734a39",
+    "_FilterInfo": {
+      "Name": "Crash Axe",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "59fafb5d86f774067a6f2084": {
+    "_id": "59fafb5d86f774067a6f2084",
+    "_FilterInfo": {
+      "Name": "5L propane",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5bc9bc53d4351e00367fbcee": {
+    "_id": "5bc9bc53d4351e00367fbcee",
+    "_FilterInfo": {
+      "Name": "Rooster",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "56742c324bdc2d150f8b456d": {
+    "_id": "56742c324bdc2d150f8b456d",
+    "_FilterInfo": {
+      "Name": "GPhone",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5c1265fc86f7743f896a21c2": {
+    "_id": "5c1265fc86f7743f896a21c2",
+    "_FilterInfo": {
+      "Name": "GPhone X",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d235b4d86f7742e017bc88a": {
+    "_id": "5d235b4d86f7742e017bc88a",
+    "_FilterInfo": {
+      "Name": "GP coin",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "590de71386f774347051a052": {
+    "_id": "590de71386f774347051a052",
+    "_FilterInfo": {
+      "Name": "Antique teapot",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "590de7e986f7741b096e5f32": {
+    "_id": "590de7e986f7741b096e5f32",
+    "_FilterInfo": {
+      "Name": "Antique vase",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5bc9c049d4351e44f824d360": {
+    "_id": "5bc9c049d4351e44f824d360",
+    "_FilterInfo": {
+      "Name": "Antique Book",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5c05300686f7746dce784e5d": {
+    "_id": "5c05300686f7746dce784e5d",
+    "_FilterInfo": {
+      "Name": "VPX Flash",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d6fc78386f77449d825f9dc": {
+    "_id": "5d6fc78386f77449d825f9dc",
+    "_FilterInfo": {
+      "Name": "Gunpowder 'Eagle'",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d6fc87386f77449db3db94e": {
+    "_id": "5d6fc87386f77449db3db94e",
+    "_FilterInfo": {
+      "Name": "Gunpowder 'Hawk'",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "590c5a7286f7747884343aea": {
+    "_id": "590c5a7286f7747884343aea",
+    "_FilterInfo": {
+      "Name": "Gunpowder 'Kite'",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5c052fb986f7746b2101e909": {
+    "_id": "5c052fb986f7746b2101e909",
+    "_FilterInfo": {
+      "Name": "RFID Reader",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "59faf7ca86f7740dbe19f6c2": {
+    "_id": "59faf7ca86f7740dbe19f6c2",
+    "_FilterInfo": {
+      "Name": "Rolex",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5c05308086f7746b2101e90b": {
+    "_id": "5c05308086f7746b2101e90b",
+    "_FilterInfo": {
+      "Name": "Virtex",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5b43575a86f77424f443fe62": {
+    "_id": "5b43575a86f77424f443fe62",
+    "_FilterInfo": {
+      "Name": "Fuel cond",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d1b2f3f86f774252167a52c": {
+    "_id": "5d1b2f3f86f774252167a52c",
+    "_FilterInfo": {
+      "Name": "FP-100",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "590c392f86f77444754deb29": {
+    "_id": "590c392f86f77444754deb29",
+    "_FilterInfo": {
+      "Name": "SSD",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "59e3639286f7741777737013": {
+    "_id": "59e3639286f7741777737013",
+    "_FilterInfo": {
+      "Name": "Lion",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "59faff1d86f7746c51718c9c": {
+    "_id": "59faff1d86f7746c51718c9c",
+    "_FilterInfo": {
+      "Name": "0.2BTC",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5c12620d86f7743f8b198b72": {
+    "_id": "5c12620d86f7743f8b198b72",
+    "_FilterInfo": {
+      "Name": "Tetriz",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "590a373286f774287540368b": {
+    "_id": "590a373286f774287540368b",
+    "_FilterInfo": {
+      "Name": "DFuel",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d03775b86f774203e7e0c4b": {
+    "_id": "5d03775b86f774203e7e0c4b",
+    "_FilterInfo": {
+      "Name": "AESA",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5c12688486f77426843c7d32": {
+    "_id": "5c12688486f77426843c7d32",
+    "_FilterInfo": {
+      "Name": "Paracord",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "59ef13ca86f77445fd0e2483": {
+    "_id": "59ef13ca86f77445fd0e2483",
+    "_FilterInfo": {
+      "Name": "Pumpkin",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5c12613b86f7743bbe2c3f76": {
+    "_id": "5c12613b86f7743bbe2c3f76",
+    "_FilterInfo": {
+      "Name": "Intelligence",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "57347ca924597744596b4e71": {
+    "_id": "57347ca924597744596b4e71",
+    "_FilterInfo": {
+      "Name": "Graphics card",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d1b32c186f774252167a530": {
+    "_id": "5d1b32c186f774252167a530",
+    "_FilterInfo": {
+      "Name": "Thermometer",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d235a5986f77443f6329bc6": {
+    "_id": "5d235a5986f77443f6329bc6",
+    "_FilterInfo": {
+      "Name": "Gold skull",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5e2aee0a86f774755a234b62": {
+    "_id": "5e2aee0a86f774755a234b62",
+    "_FilterInfo": {
+      "Name": "Cyclon",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d1b2ffd86f77425243e8d17": {
+    "_id": "5d1b2ffd86f77425243e8d17",
+    "_FilterInfo": {
+      "Name": "NIXXOR",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "590c37d286f77443be3d7827": {
+    "_id": "590c37d286f77443be3d7827",
+    "_FilterInfo": {
+      "Name": "SAS",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "59e3647686f774176a362507": {
+    "_id": "59e3647686f774176a362507",
+    "_FilterInfo": {
+      "Name": "Clock",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d1b385e86f774252167b98a": {
+    "_id": "5d1b385e86f774252167b98a",
+    "_FilterInfo": {
+      "Name": "Water filter",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5af0548586f7743a532b7e99": {
+    "_id": "5af0548586f7743a532b7e99",
+    "_FilterInfo": {
+      "Name": "Ibuprofen",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5e2af51086f7746d3f3c3402": {
+    "_id": "5e2af51086f7746d3f3c3402",
+    "_FilterInfo": {
+      "Name": "Fuze",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5656eb674bdc2d35148b457c": {
+    "_id": "5656eb674bdc2d35148b457c",
+    "_FilterInfo": {
+      "Name": "40mm",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d1b33a686f7742523398398": {
+    "_id": "5d1b33a686f7742523398398",
+    "_FilterInfo": {
+      "Name": "Purified water",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d1b376e86f774252519444e": {
+    "_id": "5d1b376e86f774252519444e",
+    "_FilterInfo": {
+      "Name": "Moonshine",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "59e3577886f774176a362503": {
+    "_id": "59e3577886f774176a362503",
+    "_FilterInfo": {
+      "Name": "Sugar",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5c0fa877d174af02a012e1cf": {
+    "_id": "5c0fa877d174af02a012e1cf",
+    "_FilterInfo": {
+      "Name": "Aquamari",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d1b327086f7742525194449": {
+    "_id": "5d1b327086f7742525194449",
+    "_FilterInfo": {
+      "Name": "Pressure gauge",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d1c774f86f7746d6620f8db": {
+    "_id": "5d1c774f86f7746d6620f8db",
+    "_FilterInfo": {
+      "Name": "Helix",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d1b371186f774253763a656": {
+    "_id": "5d1b371186f774253763a656",
+    "_FilterInfo": {
+      "Name": "Exp fuel",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d1b36a186f7742523398433": {
+    "_id": "5d1b36a186f7742523398433",
+    "_FilterInfo": {
+      "Name": "Metal fuel",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5bc9b720d4351e450201234b": {
+    "_id": "5bc9b720d4351e450201234b",
+    "_FilterInfo": {
+      "Name": "1G Phone",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5c1267ee86f77416ec610f72": {
+    "_id": "5c1267ee86f77416ec610f72",
+    "_FilterInfo": {
+      "Name": "Pro-kill",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5bc9bdb8d4351e003562b8a1": {
+    "_id": "5bc9bdb8d4351e003562b8a1",
+    "_FilterInfo": {
+      "Name": "Silver Badge",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5bc9be8fd4351e00334cae6e": {
+    "_id": "5bc9be8fd4351e00334cae6e",
+    "_FilterInfo": {
+      "Name": "English Tea",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5bc9b355d4351e6d1509862a": {
+    "_id": "5bc9b355d4351e6d1509862a",
+    "_FilterInfo": {
+      "Name": "FireKlean",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5bc9c377d4351e3bac12251b": {
+    "_id": "5bc9c377d4351e3bac12251b",
+    "_FilterInfo": {
+      "Name": "Firesteel",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5bc9b9ecd4351e3bac122519": {
+    "_id": "5bc9b9ecd4351e3bac122519",
+    "_FilterInfo": {
+      "Name": "Deadlyslob oil",
+      "Group": 3,
+      "Important": false
+    }
+  },
+  "5e54f62086f774219b0f1937": {
+    "_id": "5e54f62086f774219b0f1937",
+    "_FilterInfo": {
+      "Name": "Raven",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5e54f6af86f7742199090bf3": {
+    "_id": "5e54f6af86f7742199090bf3",
+    "_FilterInfo": {
+      "Name": "Lupo's coffee",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5e54f79686f7744022011103": {
+    "_id": "5e54f79686f7744022011103",
+    "_FilterInfo": {
+      "Name": "Pestily mask",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5e54f76986f7740366043752": {
+    "_id": "5e54f76986f7740366043752",
+    "_FilterInfo": {
+      "Name": "Shroud mask",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5e2af29386f7746d4159f077": {
+    "_id": "5e2af29386f7746d4159f077",
+    "_FilterInfo": {
+      "Name": "KEKTAPE",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d0375ff86f774186372f685": {
+    "_id": "5d0375ff86f774186372f685",
+    "_FilterInfo": {
+      "Name": "Mil. cable",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d0376a486f7747d8050965c": {
+    "_id": "5d0376a486f7747d8050965c",
+    "_FilterInfo": {
+      "Name": "Mil. circuit board",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d03784a86f774203e7e0c4d": {
+    "_id": "5d03784a86f774203e7e0c4d",
+    "_FilterInfo": {
+      "Name": "Mil. gyrotachometer",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d0378d486f77420421a5ff4": {
+    "_id": "5d0378d486f77420421a5ff4",
+    "_FilterInfo": {
+      "Name": "Mil. power filter",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d0377ce86f774186372f689": {
+    "_id": "5d0377ce86f774186372f689",
+    "_FilterInfo": {
+      "Name": "Mil. thermal module",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5c052f6886f7746b1e3db148": {
+    "_id": "5c052f6886f7746b1e3db148",
+    "_FilterInfo": {
+      "Name": "Mil. COFDM",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d0379a886f77420407aa271": {
+    "_id": "5d0379a886f77420407aa271",
+    "_FilterInfo": {
+      "Name": "OFZ shell",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d03794386f77420415576f5": {
+    "_id": "5d03794386f77420415576f5",
+    "_FilterInfo": {
+      "Name": "Tank battery",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a6086ea4f39f99cd479502f": {
+    "_id": "5a6086ea4f39f99cd479502f",
+    "_FilterInfo": {
+      "Name": "M61 ammo",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5e023d48186a883be655e551": {
+    "_id": "5e023d48186a883be655e551",
+    "_FilterInfo": {
+      "Name": "7n37",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "59e690b686f7746c9f75e848": {
+    "_id": "59e690b686f7746c9f75e848",
+    "_FilterInfo": {
+      "Name": "m995",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5c0d5e4486f77478390952fe": {
+    "_id": "5c0d5e4486f77478390952fe",
+    "_FilterInfo": {
+      "Name": "7n39",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "59e0d99486f7744a32234762": {
+    "_id": "59e0d99486f7744a32234762",
+    "_FilterInfo": {
+      "Name": "7.62x39 BP",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5cc80f38e4a949001152b560": {
+    "_id": "5cc80f38e4a949001152b560",
+    "_FilterInfo": {
+      "Name": "SS190",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5c925fa22e221601da359b7b": {
+    "_id": "5c925fa22e221601da359b7b",
+    "_FilterInfo": {
+      "Name": "AP-6.3",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5c0d688c86f77413ae3407b2": {
+    "_id": "5c0d688c86f77413ae3407b2",
+    "_FilterInfo": {
+      "Name": "9x39 BP",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5c46fbd72e2216398b5a8c9c": {
+    "_id": "5c46fbd72e2216398b5a8c9c",
+    "_FilterInfo": {
+      "Name": "SVD",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "588892092459774ac91d4b11": {
+    "_id": "588892092459774ac91d4b11",
+    "_FilterInfo": {
+      "Name": "DVL-10",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5df8ce05b11454561e39243b": {
+    "_id": "5df8ce05b11454561e39243b",
+    "_FilterInfo": {
+      "Name": "SR-25",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5b0bbe4e5acfc40dc528a72d": {
+    "_id": "5b0bbe4e5acfc40dc528a72d",
+    "_FilterInfo": {
+      "Name": "SA-58",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5aafa857e5b5b00018480968": {
+    "_id": "5aafa857e5b5b00018480968",
+    "_FilterInfo": {
+      "Name": "M1A",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "55801eed4bdc2d89578b4588": {
+    "_id": "55801eed4bdc2d89578b4588",
+    "_FilterInfo": {
+      "Name": "SV-98",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5bfea6e90db834001b7347f3": {
+    "_id": "5bfea6e90db834001b7347f3",
+    "_FilterInfo": {
+      "Name": "M700",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a367e5dc4a282000e49738f": {
+    "_id": "5a367e5dc4a282000e49738f",
+    "_FilterInfo": {
+      "Name": "RSASS",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5dcbd56fdbd3d91b3e5468d5": {
+    "_id": "5dcbd56fdbd3d91b3e5468d5",
+    "_FilterInfo": {
+      "Name": "DT-MDR",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5cadfbf7ae92152ac412eeef": {
+    "_id": "5cadfbf7ae92152ac412eeef",
+    "_FilterInfo": {
+      "Name": "ASh-12",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5c501a4d2e221602b412b540": {
+    "_id": "5c501a4d2e221602b412b540",
+    "_FilterInfo": {
+      "Name": "Vepr Hunter",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "57c44b372459772d2b39b8ce": {
+    "_id": "57c44b372459772d2b39b8ce",
+    "_FilterInfo": {
+      "Name": "AS-Val",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "57838ad32459774a17445cd2": {
+    "_id": "57838ad32459774a17445cd2",
+    "_FilterInfo": {
+      "Name": "VSS",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a1eaa87fcdbcb001865f75e": {
+    "_id": "5a1eaa87fcdbcb001865f75e",
+    "_FilterInfo": {
+      "Name": "REAP-IR",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5d1b5e94d7ad1a2b865a96b0": {
+    "_id": "5d1b5e94d7ad1a2b865a96b0",
+    "_FilterInfo": {
+      "Name": "FLIR-IR",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5c110624d174af029e69734c": {
+    "_id": "5c110624d174af029e69734c",
+    "_FilterInfo": {
+      "Name": "T-7",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "59bffbb386f77435b379b9c2": {
+    "_id": "59bffbb386f77435b379b9c2",
+    "_FilterInfo": {
+      "Name": "Hybrid 46",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5c793fc42e221600114ca25d": {
+    "_id": "5c793fc42e221600114ca25d",
+    "_FilterInfo": {
+      "Name": "Advanced tube(Red)",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5c0558060db834001b735271": {
+    "_id": "5c0558060db834001b735271",
+    "_FilterInfo": {
+      "Name": "GPNVG-18",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a34fe59c4a282000b1521a2": {
+    "_id": "5a34fe59c4a282000b1521a2",
+    "_FilterInfo": {
+      "Name": "AAC Sup",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5c7e8fab2e22165df16b889b": {
+    "_id": "5c7e8fab2e22165df16b889b",
+    "_FilterInfo": {
+      "Name": "AAC 9 Sup",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5caf187cae92157c28402e43": {
+    "_id": "5caf187cae92157c28402e43",
+    "_FilterInfo": {
+      "Name": "ASh-12 Sup",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5ba26ae8d4351e00367f9bdb": {
+    "_id": "5ba26ae8d4351e00367f9bdb",
+    "_FilterInfo": {
+      "Name": "Rotex Sup",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5b86a0e586f7745b600ccb23": {
+    "_id": "5b86a0e586f7745b600ccb23",
+    "_FilterInfo": {
+      "Name": "Bramit",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5cff9e84d7ad1a049e54ed55": {
+    "_id": "5cff9e84d7ad1a049e54ed55",
+    "_FilterInfo": {
+      "Name": "Wave Sup",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5cebec00d7f00c065c53522a": {
+    "_id": "5cebec00d7f00c065c53522a",
+    "_FilterInfo": {
+      "Name": "FN Sup",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a7ad74e51dfba0015068f45": {
+    "_id": "5a7ad74e51dfba0015068f45",
+    "_FilterInfo": {
+      "Name": "Fischer Sup",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5c7955c22e221644f31bfd5e": {
+    "_id": "5c7955c22e221644f31bfd5e",
+    "_FilterInfo": {
+      "Name": "Gemtech 7 Sup",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5648b6ff4bdc2d3d1c8b4581": {
+    "_id": "5648b6ff4bdc2d3d1c8b4581",
+    "_FilterInfo": {
+      "Name": "TT 10000",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5e4abb5086f77406975c9342": {
+    "_id": "5e4abb5086f77406975c9342",
+    "_FilterInfo": {
+      "Name": "Slick",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5ac8d6885acfc400180ae7b0": {
+    "_id": "5ac8d6885acfc400180ae7b0",
+    "_FilterInfo": {
+      "Name": "Fast MT",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5a154d5cfcdbcb001a3b00da": {
+    "_id": "5a154d5cfcdbcb001a3b00da",
+    "_FilterInfo": {
+      "Name": "Fast MT",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5c17a7ed2e2216152142459c": {
+    "_id": "5c17a7ed2e2216152142459c",
+    "_FilterInfo": {
+      "Name": "Airframe Tan",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5e00c1ad86f774747333222c": {
+    "_id": "5e00c1ad86f774747333222c",
+    "_FilterInfo": {
+      "Name": "EXFIL",
+      "Group": 1,
+      "Important": false
+    }
+  },
+  "5e01ef6886f77445f643baa4": {
+    "_id": "5e01ef6886f77445f643baa4",
+    "_FilterInfo": {
+      "Name": "EXFIL",
+      "Group": 1,
+      "Important": false
+    }
+  }
+}
